@@ -12,3 +12,5 @@ This app allows users to calculate their BMI based on height and weight and get 
 📱 App Screens<br>
 🎯 Input Screen (Height, Weight, Gender Selection).<br>
 🎯 Result Screen (BMI Result & Advice).<br>
+<img width="668" height="1016" alt="BMI1" src="https://github.com/user-attachments/assets/a432ef15-a530-4090-a658-f42968db92dd" />
+<img width="666" height="1021" alt="BMI2" src="https://github.com/user-attachments/assets/48bf7b44-9991-4148-be35-832406f52696" />
